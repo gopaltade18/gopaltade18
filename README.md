@@ -87,19 +87,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopaltade18&show_icons=true&locale=en&layout=compact" height="180px"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopaltade18&show_icons=true&locale=en" height="180px"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopaltade18" height="180px"/>
-</p>
 
 ---
 
