@@ -139,15 +139,7 @@ Government Polytechnic Ambad, Jalna
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gopaltade18&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopaltade18&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
