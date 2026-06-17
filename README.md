@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gopal+Tade;Embedded+Systems+Engineer;Firmware+Developer;ARM7+LPC2148+Developer;C+%7C+Embedded+C+%7C+Linux;Welcome+to+my+GitHub!" />
@@ -178,4 +178,3 @@ Government Polytechnic Ambad, Jalna
 <p align="center">
 🔥 Thanks for visiting my profile! Have a great day! 🔥
 </p>
-```
